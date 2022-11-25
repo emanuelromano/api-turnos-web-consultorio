@@ -1,0 +1,12 @@
+npm init -y (crear un json generico)
+
+npm i express (instalar express)
+
+npm i mysql (instalar mysql add-on con node)
+
+npm i nodemon -g (instalar nodemon, refresca la conexion con la db al modificar el codigo)
+
+npm install cors --save
+
+nodemon app (para correr la conexion a la db)
+

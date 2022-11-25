@@ -1,0 +1,17 @@
+{
+  "name": "API-REST Consultorio",
+  "version": "1.0",
+  "description": "Conexión a base de datos para la administración de sistema de turnos de un consultorio médico.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Emanuel Romano",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1"
+  }
+}
